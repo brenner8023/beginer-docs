@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as s}from"./app.5ff2ec29.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"checklist/ts.md","lastUpdated":1665193444000}'),a={name:"checklist/ts.md"};function c(r,o,n,p,d,i){return s(),e("div")}const m=t(a,[["render",c]]);export{l as __pageData,m as default};
