@@ -21,3 +21,7 @@
 ## 压缩工具
 
 - [7-zip](https://www.7-zip.org/)
+
+## 浏览器插件
+
+- [ajax-interceptor](https://github.com/YGYOOO/ajax-interceptor)
