@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,a as p}from"./app.5ff2ec29.js";const D=JSON.parse('{"title":"\u6587\u6863\u6A21\u677F","description":"","frontmatter":{},"headers":[],"relativePath":"template.md","lastUpdated":1665241983000}'),l={name:"template.md"},e=p("",4),o=[e];function c(t,r,A,C,i,_){return n(),a("div",null,o)}const y=s(l,[["render",c]]);export{D as __pageData,y as default};
