@@ -1,1 +1,0 @@
-import{_ as s,c as a,o as n,a as p}from"./app.5ff2ec29.js";const i=JSON.parse('{"title":"vue","description":"","frontmatter":{},"headers":[],"relativePath":"checklist/vue.md","lastUpdated":1665241983000}'),l={name:"checklist/vue.md"},e=p("",3),o=[e];function t(c,r,D,F,y,A){return n(),a("div",null,o)}const d=s(l,[["render",t]]);export{i as __pageData,d as default};
